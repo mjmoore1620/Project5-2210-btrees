@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace BTrees
 {
-    class Program
+    class Leaf : Node
     {
-        static void Main(string[] args)
-        {
-        }
+
     }
 }
