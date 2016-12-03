@@ -6,5 +6,5 @@ using System.Threading.Tasks;
 
 namespace BTrees
 {
-    public enum INSERT { DUPLICATE, SUCCESS, NEEDSPLIT };
+    public enum INSERT { DUPLICATE, SUCCESS, NEEDSPLIT, TEST };
 }
